@@ -4,6 +4,7 @@
 using namespace std;
 #define MBR_SIZE 512
 
+Nice
 
 int main()
 {
