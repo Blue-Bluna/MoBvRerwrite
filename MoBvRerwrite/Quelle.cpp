@@ -19,7 +19,7 @@ int main()
 			ExitProcess(0);
 		}
 		else {
-			cout << "Start as admin!";
+			cout << "Start as admin";
 			Sleep(5000);
 			ExitProcess(0);
 		}
