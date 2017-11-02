@@ -4,7 +4,6 @@
 using namespace std;
 #define MBR_SIZE 512
 
-Nice
 
 int main()
 {
@@ -20,7 +19,7 @@ int main()
 			ExitProcess(0);
 		}
 		else {
-			cout << "Failed";
+			cout << "Start as admin!";
 			Sleep(5000);
 			ExitProcess(0);
 		}
