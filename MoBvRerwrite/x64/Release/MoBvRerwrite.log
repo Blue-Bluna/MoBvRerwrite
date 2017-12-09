@@ -1,3 +1,5 @@
 ﻿  Quelle.cpp
-Quelle.cpp(17): error C2664: "HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)" : Konvertierung von Argument 1 von "const char [19]" in "LPCWSTR" nicht möglich
-  Quelle.cpp(17): note: Die Typen, auf die verwiesen wird, sind nicht verknüpft; die Konvertierung erfordert einen reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat.
+  Code wird generiert.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  MoBvRerwrite.vcxproj -> C:\Users\Alex\Documents\GitHub\MoBvRerwrite\x64\Release\MoBvRerwrite.exe
